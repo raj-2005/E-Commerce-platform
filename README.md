@@ -107,4 +107,19 @@ If admin → opens admin_menu()
 
 
 
+![image](https://github.com/user-attachments/assets/ea93d421-acac-4ff3-a2ec-0b866bc32ddb)
+
+
+### Orders Collection
+![image](https://github.com/user-attachments/assets/ee77ef4a-97a3-498b-bad2-fd7b5301455a)
+
+
+### Products Collection
+![image](https://github.com/user-attachments/assets/c3f14f40-5dc7-4de3-8944-0b431e6cac18)
+
+### Users Collection
+![image](https://github.com/user-attachments/assets/fe59d0a3-6103-4313-beb6-54361e4f41f2)
+
+
+
 
