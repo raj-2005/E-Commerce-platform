@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a4d94f2a-77a3-4f80-baf2-20c2b9f5a5a3)# 🛒 PyCart – Terminal-Based E-Commerce Platform (Python + MongoDB)
+# 🛒 PyCart – Terminal-Based E-Commerce Platform (Python + MongoDB)
 
 Welcome to **PyCart**, a sleek and modern **command-line eCommerce platform** built using **Python** and **MongoDB**. Designed for developers and backend enthusiasts, PyCart simulates a real-world shopping experience — entirely in your terminal — with robust product management, user authentication, and order processing.
 
